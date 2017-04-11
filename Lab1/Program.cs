@@ -50,7 +50,7 @@ namespace Lab1
                 // Prompting to continue to measure rooms
 
                 Console.WriteLine("Would you like to continue? (Y/N)");
-                
+                 
 
                 response = Console.ReadLine();
             } while (response.ToUpper() != "N");            
